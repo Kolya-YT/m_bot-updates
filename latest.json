@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.2.2",
-  "apkUrl": "https://raw.githubusercontent.com/Kolya-YT/m_bot-updates/main/m_bot-1.2.2.apk",
+  "versionCode": 6,
+  "versionName": "1.2.3",
+  "apkUrl": "https://raw.githubusercontent.com/Kolya-YT/m_bot-updates/main/m_bot-1.2.3.apk",
   "mandatory": false,
-  "changelog": "Обновление 1.2.2."
+  "changelog": "Обновление 1.2.3."
 }
